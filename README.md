@@ -56,4 +56,8 @@ Usage:
 * track
 
 ### Side note
-For all typos, changes, issues, bugs, and whatnot submit a pull request or issue.
+For all typos, changes, issues, bugs, and whatnot submit a pull request or issue. \ 
+Future plans:
+* Assembly to executable for compile.sh
+* Flags for clean.sh to specify extensions to remove or save
+* Basic Spotify control (not likely)
